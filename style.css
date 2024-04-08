@@ -76,7 +76,6 @@ background-position: center;
  .personal_information_1 .opne {
   display: flex;
   column-gap: 20px;
-  justify-content: center;
   align-items: center;
  }
  .personal_information_1 .opne span{
@@ -188,7 +187,6 @@ background-position: center;
  .personal_information_2 .opne {
   display: flex;
   column-gap: 20px;
-  justify-content: center;
   align-items: center;
  }
  .personal_information_2 .opne span{
@@ -303,7 +301,6 @@ background-position: center;
  .personal_information_3 .opne {
   display: flex;
   column-gap: 20px;
-  justify-content: center;
   align-items: center;
  }
  .personal_information_3 .opne span{
