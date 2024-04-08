@@ -234,21 +234,22 @@
   }
 
  .personal_information_2 h2{
-    font-size: 30px;
+    font-size: 40px;
     line-height: 1;
+    margin: 15px 0px;
    }
    .personal_information_2 span{
     color: #0000ff;
-    font-size: 20px;
+    font-size: 25px;
    }
    .personal_information_2 h3{
-    font-size: 13px;
+    font-size: 18px;
     line-height: 1.7;
     color: #222222;
     margin-top: 25px;
    }
    .personal_information_2 p{
-    font-size: 14px;
+    font-size: 17px;
     line-height: 1.7;
     color: #222222;
     margin-bottom: 20px;
@@ -256,17 +257,17 @@
    
    .personal_information_2 .opne {
     display: flex;
-    column-gap: 10px;
+    column-gap: 8px;
    }
    .personal_information_2 .opne span{
-    font-size: 10px;
+    font-size: 15px;
     padding: 12px;
     background-color: rgb(14, 134, 134);
     border-radius: 3px;
     color: #fff;
    }
    .personal_information_2  .opne a{
-    font-size: 25px;
+    font-size: 30px;
   }
 
  .personal_information_3 h2{
