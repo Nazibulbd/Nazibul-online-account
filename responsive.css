@@ -254,6 +254,14 @@
     color: #222222;
     margin-bottom: 20px;
    }
+   .flower{
+    display: block;
+   }
+   .flower img{
+    height: 60px;
+    width: 50px;
+    margin-bottom: 10px;
+   }
    
    .personal_information_2 .opne {
     display: flex;

@@ -183,6 +183,9 @@ background-position: center;
   color: #222222;
   margin-bottom: 20px;
  }
+ .flower{
+  display: none;
+ }
 
  .personal_information_2 .opne {
   display: flex;
