@@ -25,6 +25,9 @@ common css
   a{
     text-decoration: none;
   }
+  .favicon{
+    border-radius: 50%;
+  }
 
  /* =============== 
      BANNER CSS 1
