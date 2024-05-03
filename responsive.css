@@ -281,11 +281,10 @@
   }
   
 .opne-2 {
-    display: flex;
-    column-gap: 20px;
     display: block;
     margin-top: 50px;
-    justify-content: center;
+    display: flex;
+    column-gap: 20px;
     align-items: center;
    }
 .opne-2 span{
@@ -296,8 +295,9 @@
     color: #fff;
    }
 .opne-2 a{
-    font-size: 25px;
-    margin-left: 10px;
+    font-size: 32px;
+
+
   } 
 
  .personal_information_3 h2{
@@ -343,6 +343,7 @@
    }
    .icon_list ul{
     padding: 5px;
+    column-gap: 10px;
    }
    .icon_list ul a i{
     font-size: 15px;
