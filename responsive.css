@@ -218,7 +218,7 @@
     color: #222222;
     margin-bottom: 20px;
    }
-   .personal_information_1 .opne {
+   .personal_information_1 .opne{
     display: flex;
     column-gap: 10px;
    }
@@ -231,7 +231,7 @@
    }
    .personal_information_1  .opne a{
     font-size: 20px;
-  }
+   }
 
  .personal_information_2 h2{
     font-size: 40px;
@@ -258,6 +258,8 @@
    .personal_information_2 .opne {
     display: flex;
     column-gap: 8px;
+    display: none;
+
    }
    .personal_information_2 .opne span{
     font-size: 15px;
@@ -269,6 +271,26 @@
    .personal_information_2  .opne a{
     font-size: 30px;
   }
+  
+.opne-2 {
+    display: flex;
+    column-gap: 20px;
+    display: block;
+    margin-top: 50px;
+    justify-content: center;
+    align-items: center;
+   }
+.opne-2 span{
+    font-size: 12px;
+    padding: 12px;
+    background-color: rgb(14, 134, 134);
+    border-radius: 3px;
+    color: #fff;
+   }
+.opne-2 a{
+    font-size: 25px;
+    margin-left: 10px;
+  } 
 
  .personal_information_3 h2{
     font-size: 30px;
@@ -306,7 +328,7 @@
     font-size: 20px;
   }
    .icon_list{
-    margin-top: 30px;
+    margin-top: -8px;
    }
    .icon_list ul{
     column-gap: 3px;

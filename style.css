@@ -199,6 +199,26 @@ background-position: center;
  .personal_information_2  .opne a{
   font-size: 35px;
 }
+
+
+.opne-2 {
+  display: flex;
+  column-gap: 20px;
+  align-items: center;
+  display: none;
+ }
+.opne-2 span{
+  font-size: 15px;
+  padding: 15px;
+  background-color: rgb(14, 134, 134);
+  border-radius: 3px;
+  color: #fff;
+ }
+.opne-2 a{
+  font-size: 30px;
+
+}
+
  .avatar_2 img{
   height: 300px;
   width: 300px;
@@ -332,7 +352,7 @@ background-position: center;
  }
 .icon_list ul li{
   list-style: none;
-  padding:  8px;
+  padding: 8px;
  }
 .icon_list ul a{
   display: flex;
