@@ -34,7 +34,7 @@ common css
  =============*/
  #banner{ 
 width: 100%;
-height: 800px;
+height: 800px; 
 background: url("./imges/backgraound.jpg");
 background-size: cover;
 background-attachment: fixed;
