@@ -254,8 +254,16 @@
     color: #222222;
     margin-bottom: 20px;
    }
+   .avatar_2{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   }
    .avatar_2 img{
-    margin-left: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
    }
    .flower{
     display: block;
@@ -269,6 +277,8 @@
    .flower img{
     height: 60px;
     width: 50px;
+    justify-content: center;
+    align-items: center;
    }
    
    .personal_information_2 .opne {
