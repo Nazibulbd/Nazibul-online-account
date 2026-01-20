@@ -254,8 +254,7 @@
     color: #222222;
     margin-bottom: 20px;
    }
-   .avatar_2{
-    display: flex;
+   .avatar_2 img{
     margin-left: 20px;
    }
    .flower{
@@ -263,7 +262,7 @@
     width: 100%;
     justify-content: center;
     display: flex;
-    margin-left: 20px;
+    margin-left: 10px;
    }
    .flower img{
     height: 60px;
