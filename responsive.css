@@ -256,11 +256,13 @@
    }
    .flower{
     display: block;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
    }
    .flower img{
     height: 60px;
     width: 50px;
-    margin-bottom: 10px;
    }
    
    .personal_information_2 .opne {
