@@ -263,6 +263,8 @@
     justify-content: center;
     margin: 0px;
     padding: 0px;
+    display: flex;
+    align-items: center;
    }
    .flower img{
     height: 60px;
