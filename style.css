@@ -185,9 +185,14 @@ background-position: center;
  }
  .flower{
   display: flex;
+  height: 200px;
+  width: 400px;
+  margin-left: 30px;
+  align-items: center;
+ }
+  .flower img{
   height: 100px;
   width: 100px;
-  margin-left: 30px;
  }
 
  .personal_information_2 .opne {
