@@ -185,10 +185,11 @@ background-position: center;
  }
  .flower{
   display: flex;
-  height: 100px;
+  height: 100%;
   width: 400px;
   margin-left: 30px;
   align-items: center;
+  justify-content: center;
  }
   .flower img{
   height: 100px;
