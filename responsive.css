@@ -261,7 +261,8 @@
     display: block;
     width: 100%;
     justify-content: center;
-    margin-left: -20px;
+    margin: 0px;
+    padding: 0px;
    }
    .flower img{
     height: 60px;
