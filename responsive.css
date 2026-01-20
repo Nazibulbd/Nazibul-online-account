@@ -261,13 +261,17 @@
    .flower{
     display: block;
     width: 100%;
-    align-items: center;
     justify-content: center;
     display: flex;
    }
    .flower img{
     height: 60px;
     width: 50px;
+   }
+   .container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
    }
    
    .personal_information_2 .opne {
