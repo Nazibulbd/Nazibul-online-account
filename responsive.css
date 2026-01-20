@@ -263,15 +263,11 @@
     width: 100%;
     justify-content: center;
     display: flex;
+    margin-left: 20px;
    }
    .flower img{
     height: 60px;
     width: 50px;
-   }
-   .container{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
    }
    
    .personal_information_2 .opne {
