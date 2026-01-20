@@ -188,7 +188,6 @@
    .icon_list ul{
     padding: 5px;
    }
-   .flower{display: none;}
 }
 
 @media screen and (max-width: 455px) {
@@ -296,8 +295,9 @@
     color: #fff;
    }
 .opne-2 a{
-
     font-size: 32px;
+
+
   } 
 
  .personal_information_3 h2{
