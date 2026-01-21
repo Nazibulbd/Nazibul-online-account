@@ -195,7 +195,7 @@
         flex-direction: column-reverse;
     }
     #banner{
-        height: 800px;
+        height: 100%;
     }
 
  .personal_information_1 h2{
