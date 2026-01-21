@@ -259,6 +259,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: #0000ff;
    }
    .avatar_2 img{
     display: flex;
@@ -273,6 +274,7 @@
     padding: 0px;
     display: flex;
     align-items: center;
+    background-color: aqua;
    }
    .flower img{
     height: 60px;
