@@ -246,13 +246,13 @@
     font-size: 18px;
     line-height: 1.7;
     color: #222222;
-    margin-top: 25px;
+    margin-top: 20px;
    }
    .personal_information_2 p{
     font-size: 17px;
     line-height: 1.7;
     color: #222222;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
    }
    .avatar_2{
     width: 100%;
@@ -269,6 +269,7 @@
    .flower{
     display: block;
     width: 100%;
+    height: 60px;
     justify-content: center;
     margin: 0px;
     padding: 0px;
