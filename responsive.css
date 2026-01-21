@@ -258,12 +258,13 @@
     display: flex;
     justify-content: center;
     align-items: center;
+      padding-left: 20px;
    }
    .avatar_2 img{
     display: flex;
     justify-content: center;
     align-items: center;
-    padding-left: 20px;
+  
    }
    .flower{
     display: block;
