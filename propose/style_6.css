@@ -23,6 +23,9 @@
     color: aliceblue;
     font-size: 20px;
     width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 #section .container .box a{
     border-radius: 10px;
