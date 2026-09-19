@@ -20,19 +20,14 @@
     height: 80%;
     border-radius: 20px;
 }
-#section .container .box img{
-    width: 300px;
-    height: 230px;
+#section .container .box h1{
+    color: aliceblue;
+    font-size: 30px;
 }
 #section .container .box a{
     border-radius: 10px;
-    font-size: 100px;
-    color: blue;
+    font-size:100px;
+    clear: both;
     text-decoration: none;
-}
-#section .container .box .gift{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    column-gap: 10px;
+
 }
