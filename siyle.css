@@ -163,14 +163,16 @@ background-position: center;
   flex-basis: 50%;
  }
  .personal_information_2 .name h2{
-  font-size: 70px;
+  font-size: 40px;
   line-height: 1;
   color: blue;
  }
+
  .personal_information_2 .name span{
   color: deeppink;
-  font-size: 55px;
+  font-size: 35px;
  }
+
  .personal_information_2 .name h3{
   font-size: 20px;
   line-height: 1.7;
@@ -184,6 +186,7 @@ background-position: center;
   color: #222222;
   margin-bottom: 20px;
  }
+ 
  .flower{
   display: flex;
   height: 100px;
