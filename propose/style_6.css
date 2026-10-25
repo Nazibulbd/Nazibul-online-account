@@ -27,7 +27,13 @@
     justify-content: center;
     align-items: center;
 }
-#section .container .box a{
+#section .container .box .frind_box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;    
+}
+#section .container .box .frind_box a{
     border-radius: 10px;
     font-size:100px;
     clear: both;
